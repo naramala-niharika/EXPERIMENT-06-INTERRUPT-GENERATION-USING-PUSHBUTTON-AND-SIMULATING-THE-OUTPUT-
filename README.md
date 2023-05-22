@@ -322,9 +322,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
 ```
-## Output screen shots of proteus  :
-<img width="565" alt="int-1" src="https://github.com/naramala-niharika/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-<img width="570" alt="int-2" src="https://github.com/naramala-niharika/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/94165377/6fa5cca5-87a8-4f46-a13f-cf9808bed2f2">
-/assets/94165377/06822577-6382-47fc-94a8-34eb1e1ac186">
+## Output screen shot:
+<img width="570" alt="int-2" src="https://github.com/naramala-niharika/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/94165377/e288a7eb-cebf-427f-b8b4-ba4eb65efb44">
+s of proteus  
+<img width="565" alt="int-1" src="https://github.com/naramala-niharika/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/94165377/653e0bdb-846c-4394-a21e-5edf0eb0b8a6">
+
+
+
 
 
  
